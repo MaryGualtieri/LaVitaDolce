@@ -5,6 +5,10 @@ div#icons {
     float: right;
 }
 
+.header {
+  background-color: d7d7d7;
+}
+
 header {
     color: f15e95;
     margin-right: 22px;
