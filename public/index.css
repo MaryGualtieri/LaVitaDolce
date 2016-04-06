@@ -5,6 +5,11 @@ div#icons {
     float: right;
 }
 
+header {
+    color: f15e95;
+    margin-right: 22px;
+    margin-left: 22px;
+}
 
 /*Coming Soon*/
 img.logo {
