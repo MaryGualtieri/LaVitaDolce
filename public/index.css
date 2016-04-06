@@ -1,4 +1,11 @@
 
+/*Social Links*/
+
+div#icons {
+    float: right;
+}
+
+
 /*Coming Soon*/
 img.logo {
     width: 100%;
@@ -6,9 +13,9 @@ img.logo {
 
 /*Footer*/
 
-footer {
-  background-color: #d7d7d7;
-  padding-top: 1%;
+header {
+  /*background-color: #d7d7d7;*/
+  /*padding-top: 1%;*/
   padding-bottom: 0.5%;
   /*margin-top: 1rem;*/
 }
@@ -21,7 +28,7 @@ footer {
   margin: auto;
 }
 img.icons-img {
-  margin: 15px;
-  height: 50px;
-  width: 50px;
+  margin: 5px;
+  height: 30px;
+  width: 30px;
 }
