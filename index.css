@@ -3,3 +3,25 @@
 img.logo {
     width: 100%;
 }
+
+/*Footer*/
+
+footer {
+  background-color: #d7d7d7;
+  padding-top: 1%;
+  padding-bottom: 0.5%;
+  /*margin-top: 1rem;*/
+}
+
+#icons {
+  text-align: center;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  margin: auto;
+}
+img.icons-img {
+  margin: 15px;
+  height: 50px;
+  width: 50px;
+}
